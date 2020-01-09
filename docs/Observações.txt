@@ -5,3 +5,5 @@
 - Então os inputs de entrada foram enviados pelo postman usando um método Post passando valor da compra e valor total em dinheiro.
 
 - Payload se encontra anexado ao projeto.
+
+- Adicionei as cédulas de R$2,00 e R$20,00 Reais.
