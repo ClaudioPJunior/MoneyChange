@@ -1,0 +1,8 @@
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.deps.json
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.pdb
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.AssemblyInfo.cs
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Domain\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.pdb

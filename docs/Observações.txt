@@ -1,0 +1,7 @@
+- Na implementação do teste eu foquei no backend por conta da experiência e de conhecimentos obitidos e usados na minha antiga função como por exemplo:
+ - Conceitos do DDD.
+ - Injeção de Dependência.
+
+- Então os inputs de entrada foram enviados pelo postman usando um método Post passando valor da compra e valor total em dinheiro.
+
+- Payload se encontra anexado ao projeto.

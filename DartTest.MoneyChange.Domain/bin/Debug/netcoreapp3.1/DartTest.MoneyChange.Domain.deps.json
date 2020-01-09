@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DartTest.MoneyChange.Domain/1.0.0": {
+        "runtime": {
+          "DartTest.MoneyChange.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DartTest.MoneyChange.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

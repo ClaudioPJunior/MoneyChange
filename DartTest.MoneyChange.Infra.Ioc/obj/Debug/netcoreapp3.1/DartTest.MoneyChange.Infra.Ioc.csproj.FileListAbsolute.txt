@@ -1,0 +1,13 @@
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.deps.json
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.AssemblyInfo.cs
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.pdb
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Application.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Application.pdb
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\bin\Debug\netcoreapp3.1\DartTest.MoneyChange.Domain.pdb
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.csproj.CopyComplete
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.dll
+C:\Users\claud\Desktop\Repository\DartTest.MoneyChange\DartTest.MoneyChange.Infra.Ioc\obj\Debug\netcoreapp3.1\DartTest.MoneyChange.Infra.Ioc.pdb

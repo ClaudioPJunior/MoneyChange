@@ -1,0 +1,183 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection/3.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "DartTest.MoneyChange.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DartTest.MoneyChange.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DartTest.MoneyChange.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DartTest.MoneyChange.Application.dll": {}
+        }
+      },
+      "DartTest.MoneyChange.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DartTest.MoneyChange.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DartTest.MoneyChange.Domain.dll": {}
+        }
+      },
+      "DartTest.MoneyChange.Infra.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DartTest.MoneyChange.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.0"
+        },
+        "compile": {
+          "bin/placeholder/DartTest.MoneyChange.Infra.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DartTest.MoneyChange.Infra.Ioc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/3.1.0": {
+      "sha512": "KVkv3aF2MQpmGFRh4xRx2CNbc2sjDFk+lH4ySrjWSOS+XoY1Xc+sJphw3N0iYOpoeCCq8976ceVYDH8sdx2qIQ==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.0": {
+      "sha512": "44rDtOf1JXXAFpNT2EXMExaDm/4OJ2RXOL9i9lE4bK427nzC7Exphv+beB6IgluyE2GIoo8zezTStMXI7MQ8WA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "DartTest.MoneyChange.Application/1.0.0": {
+      "type": "project",
+      "path": "../DartTest.MoneyChange.Application/DartTest.MoneyChange.Application.csproj",
+      "msbuildProject": "../DartTest.MoneyChange.Application/DartTest.MoneyChange.Application.csproj"
+    },
+    "DartTest.MoneyChange.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DartTest.MoneyChange.Domain/DartTest.MoneyChange.Domain.csproj",
+      "msbuildProject": "../DartTest.MoneyChange.Domain/DartTest.MoneyChange.Domain.csproj"
+    },
+    "DartTest.MoneyChange.Infra.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../DartTest.MoneyChange.Infra.Ioc/DartTest.MoneyChange.Infra.Ioc.csproj",
+      "msbuildProject": "../DartTest.MoneyChange.Infra.Ioc/DartTest.MoneyChange.Infra.Ioc.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DartTest.MoneyChange.Infra.Ioc >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\claud\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\claud\\Desktop\\Repository\\DartTest.MoneyChange\\DartTest.MoneyChange\\DartTest.MoneyChange.csproj",
+      "projectName": "DartTest.MoneyChange",
+      "projectPath": "C:\\Users\\claud\\Desktop\\Repository\\DartTest.MoneyChange\\DartTest.MoneyChange\\DartTest.MoneyChange.csproj",
+      "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\claud\\Desktop\\Repository\\DartTest.MoneyChange\\DartTest.MoneyChange\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\claud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\claud\\Desktop\\Repository\\DartTest.MoneyChange\\DartTest.MoneyChange.Infra.Ioc\\DartTest.MoneyChange.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\claud\\Desktop\\Repository\\DartTest.MoneyChange\\DartTest.MoneyChange.Infra.Ioc\\DartTest.MoneyChange.Infra.Ioc.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
